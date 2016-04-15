@@ -1,0 +1,122 @@
+ /**{
+	outline:1px solid rgba(255,0,0,0.3);
+} */
+body{
+	font-family: Arial;
+}
+img{
+	max-width: 100%;
+}
+.position-r{
+	position: relative;
+}
+.float-l{
+	float: left;
+}
+.movie-p{
+	display: inline-block;
+	top: 30px;
+	left: 5%;
+}
+input{
+	border: none;
+}
+form{
+	border: 1px solid rgba(211, 211, 211, 0.33);
+	position: absolute;
+	padding: 2px;
+	top: 25px;
+	left: 75%;
+}
+.icono{
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	left: 20%;
+	top: 50%;
+}
+.banner{
+	margin: 0;
+}
+.background-gray{
+	background: #333;
+}
+.text-white{
+	color: #E6E6E6;
+}
+.font-1em{
+	font-size: 12px;
+}
+.margin-r{
+	margin-right: 20%;
+}
+.green-box{
+	border: 2px solid #088A29;
+	color: #088A29;
+	padding: 5px;
+	border-radius: 5px;
+	font-size: 12px;
+}
+.display-ib{
+	display: inline-block;
+}
+.display-b{
+	display: block;
+}
+.button-d{
+	width: 200px;
+	height: 50px;
+	border-radius: 5px;
+	border: none;
+}
+.button-d-big{
+	width: 200px;
+	height: 75px;
+	border-radius: 5px;
+	border: none;
+}
+.button-trailer{
+	background: #FFBF00;
+}
+.button-ticket{
+	background: #DF7401;
+}
+.list-unstyle{
+	list-style: none;
+	margin:0px;
+	padding: 0px;
+}
+.cartelera{
+	background: #FACC2E;
+}
+.cartelera ul{
+	padding: 20px 0;
+}
+.cartelera .list-img{
+	width:100%; 
+}
+.cartelera .list-img li{
+	max-width: 180px;
+	max-height: 250px;
+	display: inline-block;
+	position: relative;
+	overflow: hidden;
+	margin-right: 20px;
+}
+.font-gray{
+	font-size: 22px;
+	color: #848484;
+}
+.text-gray{
+	color: #848484;
+}
+.text-decoration-n{
+	text-decoration: none;
+}
+.afiche img{
+	width: 180px;
+	height: 285px;
+}
+.background-gray-light{
+	background: #D8D8D8;
+}
